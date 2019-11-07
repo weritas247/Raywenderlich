@@ -9,6 +9,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
   private var applicationCoordinator: ApplicationCoordinator?  // 1
   
   func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
+    
     let window = UIWindow(frame: UIScreen.main.bounds)
     let applicationCoordinator = ApplicationCoordinator(window: window) // 2
     
