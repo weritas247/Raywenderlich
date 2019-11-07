@@ -60,7 +60,7 @@ class SolarSystem {
              yearInDays: 30688.5,
              massInEarths: 14.536,
              radiusInEarths: 4.007,
-             funFact: "Seriously, you can stop with the jokes. It's heard them all",
+             funFact: "Seriously, you cacn stop with the jokes. It's heard them all",
              imageName: "Uranus",
              imageCredit: "NASA/JPL-Caltech"),
       Planet(name: "Neptune",
